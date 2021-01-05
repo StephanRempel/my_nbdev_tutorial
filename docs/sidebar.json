@@ -1,6 +1,7 @@
 {
   "my_nbdev_tutorial": {
     "Overview": "/",
-    "module name here": "/core"
+    "module name here": "/core",
+    "Title": "/card"
   }
 }
