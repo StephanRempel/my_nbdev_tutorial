@@ -34,6 +34,8 @@ class Card:
         return '%s of %s' % (Card.rank_names[self.rank],
                              Card.suit_names[self.suit])
 
+    def __repr__(self): return self.__str__()
+
     def __eq__(self, other):
         """Checks whether self and other have the same rank and suit.
         returns: boolean
