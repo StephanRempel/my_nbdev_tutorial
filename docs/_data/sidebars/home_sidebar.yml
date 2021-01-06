@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: my_nbdev_tutorial
+      title: Core
       url: /core
     - output: web,pdf
       title: Card
