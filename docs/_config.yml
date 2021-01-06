@@ -1,7 +1,7 @@
-repository: StephanRempel/nbdev_template
+repository: StephanRempel/my_nbdev_tutorial
 output: web
-topnav_title: nbdev_template
-site_title: nbdev_template
+topnav_title: my_nbdev_tutorial
+site_title: my_nbdev_tutorial
 company_name: Your Name or Company Name
 description: A description of my project
 # Set to false to disable KaTeX math
