@@ -16,7 +16,7 @@ entries:
       title: Card
       url: /card
     - output: web,pdf
-      title: Title
+      title: Deck
       url: /deck
     output: web
     title: my_nbdev_tutorial
