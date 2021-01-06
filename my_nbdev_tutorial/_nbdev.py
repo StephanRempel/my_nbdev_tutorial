@@ -4,10 +4,12 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb",
          "HelloSayer": "00_core.ipynb",
-         "Card": "10_card.ipynb"}
+         "Card": "10_card.ipynb",
+         "Deck": "20_deck.ipynb"}
 
 modules = ["core.py",
-           "card.py"]
+           "card.py",
+           "deck.py"]
 
 doc_url = "https://StephanRempel.github.io/my_nbdev_tutorial/"
 

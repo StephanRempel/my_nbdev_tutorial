@@ -14,7 +14,7 @@ entries:
       url: /core
     - output: web,pdf
       title: Title
-      url: /card
+      url: /deck
     output: web
     title: my_nbdev_tutorial
   output: web
