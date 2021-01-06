@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: my_nbdev_tutorial
       url: /core
+    - output: web,pdf
+      title: Card
+      url: /card
     - output: web,pdf
       title: Title
       url: /deck

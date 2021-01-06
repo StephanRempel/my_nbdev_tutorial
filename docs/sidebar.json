@@ -1,7 +1,8 @@
 {
   "my_nbdev_tutorial": {
     "Overview": "/",
-    "module name here": "/core",
+    "my_nbdev_tutorial": "/core",
+    "Card": "/card",
     "Title": "/deck"
   }
 }
