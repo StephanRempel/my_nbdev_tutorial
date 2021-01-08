@@ -11,13 +11,13 @@ entries:
       url: /
     - output: web,pdf
       title: Core
-      url: /core
+      url: core.html
     - output: web,pdf
       title: Card
-      url: /card
+      url: card.html
     - output: web,pdf
       title: Deck
-      url: /deck
+      url: deck.html
     output: web
     title: my_nbdev_tutorial
   output: web

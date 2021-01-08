@@ -1,8 +1,8 @@
 {
   "my_nbdev_tutorial": {
     "Overview": "/",
-    "Core": "/core",
-    "Card": "/card",
-    "Deck": "/deck"
+    "Core": "core.html",
+    "Card": "card.html",
+    "Deck": "deck.html"
   }
 }
